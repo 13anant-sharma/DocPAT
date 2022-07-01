@@ -6,7 +6,6 @@
 - [Solution](#solution)
 - [Doctor and Patient interaction](#Doctor-and-Patient-interaction)
 - [More feature for Patient’s](#More-feature-for-Patient’s)
-- [View live App](#View-live-App)
 - [Project Links](#Important-links)
 
 
@@ -24,9 +23,6 @@ DocPat is a platform for Doctors and Patients.It provides a platform for doctors
 
 ## More-feature-for-Patient’s
 ![Doctor and Patient interaction](https://github.com/swaraj-jain/Doctor_Patient_WEB/blob/main/Screenshot%202021-02-14%20at%202.45.21%20PM.png)
-
-## View-live-App
-[Docpat](http://harshit2001411.pythonanywhere.com/)
 
 ## Important-links
 [Presentation](https://docs.google.com/presentation/d/1adWTju5dp33YKG9mZfnYpjKhf5vC42Dsv-PwTwXD8qI/edit#slide=id.gbcc8beb0a6_0_224)
