@@ -25,4 +25,4 @@ DocPat is a platform for Doctors and Patients.It provides a platform for doctors
 ![Doctor and Patient interaction](https://github.com/13anant-sharma/DocPAT/blob/main/Screenshot%202021-02-14%20at%202.45.21%20PM.png)
 
 ## Important-links
-[Presentation](https://docs.google.com/presentation/d/1adWTju5dp33YKG9mZfnYpjKhf5vC42Dsv-PwTwXD8qI/edit#slide=id.gbcc8beb0a6_0_224)
+[Presentation](https://docs.google.com/presentation/d/1GB9h-ZyNx1999tW6_CXuRaihTNE53fBPkbycN-AYUes/edit#slide=id.p)
